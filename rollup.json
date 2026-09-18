@@ -11,89 +11,89 @@
   "cohort_floor_ok": true,
   "last_30d": {
     "runs": 343,
-    "score_sum": 23339.3,
+    "score_sum": 24798.9,
     "distinct_eligible_reps": 38,
     "distinct_active_reps": 27,
     "distinct_engaged_reps": 17
   },
   "prior_30d": {
     "runs": 302,
-    "score_sum": 20694.0,
+    "score_sum": 21170.2,
     "distinct_eligible_reps": 38,
     "distinct_active_reps": 28,
-    "distinct_engaged_reps": 12
+    "distinct_engaged_reps": 15
   },
   "weekly": [
     {
       "week_start": "2026-06-22",
       "runs": 56,
-      "score_sum": 3523.9,
+      "score_sum": 3612.0,
       "distinct_active_reps": 20
     },
     {
       "week_start": "2026-06-29",
       "runs": 40,
-      "score_sum": 2561.4,
+      "score_sum": 2608.0,
       "distinct_active_reps": 16
     },
     {
       "week_start": "2026-07-06",
       "runs": 24,
-      "score_sum": 1509.3,
+      "score_sum": 1584.0,
       "distinct_active_reps": 19
     },
     {
       "week_start": "2026-07-13",
       "runs": 54,
-      "score_sum": 3452.3,
+      "score_sum": 3618.0,
       "distinct_active_reps": 16
     },
     {
       "week_start": "2026-07-20",
       "runs": 67,
-      "score_sum": 4461.8,
+      "score_sum": 4623.0,
       "distinct_active_reps": 19
     },
     {
       "week_start": "2026-07-27",
       "runs": 72,
-      "score_sum": 4797.2,
+      "score_sum": 5018.4,
       "distinct_active_reps": 18
     },
     {
       "week_start": "2026-08-03",
       "runs": 69,
-      "score_sum": 4645.9,
+      "score_sum": 4850.7,
       "distinct_active_reps": 18
     },
     {
       "week_start": "2026-08-10",
       "runs": 94,
-      "score_sum": 6288.9,
+      "score_sum": 6678.1,
       "distinct_active_reps": 24
     },
     {
       "week_start": "2026-08-17",
       "runs": 84,
-      "score_sum": 5668.7,
+      "score_sum": 5989.2,
       "distinct_active_reps": 24
     },
     {
       "week_start": "2026-08-24",
       "runs": 97,
-      "score_sum": 6734.8,
+      "score_sum": 6964.6,
       "distinct_active_reps": 22
     },
     {
       "week_start": "2026-08-31",
       "runs": 87,
-      "score_sum": 5837.3,
+      "score_sum": 6298.8,
       "distinct_active_reps": 23
     },
     {
       "week_start": "2026-09-07",
       "runs": 75,
-      "score_sum": 5225.3,
+      "score_sum": 5546.3,
       "distinct_active_reps": 17
     }
   ]
