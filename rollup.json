@@ -10,91 +10,91 @@
   "generated_at": "2026-09-13T18:00:00Z",
   "cohort_floor_ok": true,
   "last_30d": {
-    "runs": 343,
-    "score_sum": 24798.9,
-    "distinct_eligible_reps": 38,
-    "distinct_active_reps": 27,
-    "distinct_engaged_reps": 17
+    "runs": 560,
+    "score_sum": 39954.0,
+    "distinct_eligible_reps": 68,
+    "distinct_active_reps": 51,
+    "distinct_engaged_reps": 35
   },
   "prior_30d": {
-    "runs": 302,
-    "score_sum": 21170.2,
-    "distinct_eligible_reps": 38,
-    "distinct_active_reps": 28,
-    "distinct_engaged_reps": 15
+    "runs": 480,
+    "score_sum": 33297.6,
+    "distinct_eligible_reps": 68,
+    "distinct_active_reps": 48,
+    "distinct_engaged_reps": 30
   },
   "weekly": [
     {
       "week_start": "2026-06-22",
-      "runs": 56,
-      "score_sum": 3612.0,
-      "distinct_active_reps": 20
+      "runs": 86,
+      "score_sum": 5940.0,
+      "distinct_active_reps": 32
     },
     {
       "week_start": "2026-06-29",
-      "runs": 40,
-      "score_sum": 2608.0,
-      "distinct_active_reps": 16
+      "runs": 79,
+      "score_sum": 5462.6,
+      "distinct_active_reps": 30
     },
     {
       "week_start": "2026-07-06",
-      "runs": 24,
-      "score_sum": 1584.0,
-      "distinct_active_reps": 19
+      "runs": 75,
+      "score_sum": 5208.0,
+      "distinct_active_reps": 31
     },
     {
       "week_start": "2026-07-13",
-      "runs": 54,
-      "score_sum": 3618.0,
-      "distinct_active_reps": 16
+      "runs": 81,
+      "score_sum": 5661.9,
+      "distinct_active_reps": 30
     },
     {
       "week_start": "2026-07-20",
-      "runs": 67,
-      "score_sum": 4623.0,
-      "distinct_active_reps": 19
+      "runs": 102,
+      "score_sum": 6998.5,
+      "distinct_active_reps": 35
     },
     {
       "week_start": "2026-07-27",
-      "runs": 72,
-      "score_sum": 5018.4,
-      "distinct_active_reps": 18
+      "runs": 111,
+      "score_sum": 7683.7,
+      "distinct_active_reps": 37
     },
     {
       "week_start": "2026-08-03",
-      "runs": 69,
-      "score_sum": 4850.7,
-      "distinct_active_reps": 18
+      "runs": 114,
+      "score_sum": 7904.1,
+      "distinct_active_reps": 38
     },
     {
       "week_start": "2026-08-10",
-      "runs": 94,
-      "score_sum": 6678.1,
-      "distinct_active_reps": 24
+      "runs": 153,
+      "score_sum": 10711.3,
+      "distinct_active_reps": 41
     },
     {
       "week_start": "2026-08-17",
-      "runs": 84,
-      "score_sum": 5989.2,
-      "distinct_active_reps": 24
+      "runs": 137,
+      "score_sum": 9650.8,
+      "distinct_active_reps": 42
     },
     {
       "week_start": "2026-08-24",
-      "runs": 97,
-      "score_sum": 6964.6,
-      "distinct_active_reps": 22
+      "runs": 151,
+      "score_sum": 10714.2,
+      "distinct_active_reps": 44
     },
     {
       "week_start": "2026-08-31",
-      "runs": 87,
-      "score_sum": 6298.8,
-      "distinct_active_reps": 23
+      "runs": 143,
+      "score_sum": 10210.2,
+      "distinct_active_reps": 43
     },
     {
       "week_start": "2026-09-07",
-      "runs": 75,
-      "score_sum": 5546.3,
-      "distinct_active_reps": 17
+      "runs": 129,
+      "score_sum": 9378.8,
+      "distinct_active_reps": 40
     }
   ]
 }
