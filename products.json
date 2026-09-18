@@ -12,11 +12,11 @@
     "distinct_engaged_reps": 11
   },
   "prior_30d": {
-    "runs": 231,
-    "score_sum": 15922.0,
-    "distinct_eligible_reps": 24,
-    "distinct_active_reps": 17,
-    "distinct_engaged_reps": 11
+    "runs": 153,
+    "score_sum": 11922.0,
+    "distinct_eligible_reps": 14,
+    "distinct_active_reps": 13,
+    "distinct_engaged_reps": 9
   },
   "weekly": [
     {"week_start":"2026-06-22","runs":48,"score_sum":3241.8,"distinct_active_reps":12}
