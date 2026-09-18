@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.4",
+  "tenant": "lilly",
+  "files": [
+    "country=CA/rollup.json",
+    "country=CA/bu=CARDIO/rollup.json",
+    "country=CA/bu=CARDIO/product=ZEPBOUND/latest.json",
+    "country=CA/bu=CARDIO/product=MOUNJARO/latest.json",
+    "country=CA/bu=ONCO/rollup.json",
+    "country=CA/bu=ONCO/product=VERZENIO/latest.json"
+  ]
+}

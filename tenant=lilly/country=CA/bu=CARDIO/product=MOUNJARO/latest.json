@@ -1,0 +1,102 @@
+{
+  "schema_version": "0.4",
+  "scope": {
+    "tenant": "lilly",
+    "country": "CA",
+    "bu": "CARDIO",
+    "products": [
+      "MOUNJARO"
+    ]
+  },
+  "as_of": "2026-09-13T18:00:00Z",
+  "generated_at": "2026-09-13T18:04:30Z",
+  "cohort_floor_ok": true,
+  "last_30d": {
+    "runs": 112,
+    "score_sum": 8876.9,
+    "distinct_eligible_reps": 22,
+    "distinct_active_reps": 16,
+    "distinct_engaged_reps": 10
+  },
+  "prior_30d": {
+    "runs": 149,
+    "score_sum": 9248.2,
+    "distinct_eligible_reps": 24,
+    "distinct_active_reps": 17,
+    "distinct_engaged_reps": 11
+  },
+  "weekly": [
+    {
+      "week_start": "2026-06-22",
+      "runs": 8,
+      "score_sum": 370.2,
+      "distinct_active_reps": 8
+    },
+    {
+      "week_start": "2026-06-29",
+      "runs": 4,
+      "score_sum": 124.0,
+      "distinct_active_reps": 5
+    },
+    {
+      "week_start": "2026-07-06",
+      "runs": 0,
+      "score_sum": 0.0,
+      "distinct_active_reps": 0
+    },
+    {
+      "week_start": "2026-07-13",
+      "runs": 26,
+      "score_sum": 1621.6,
+      "distinct_active_reps": 9
+    },
+    {
+      "week_start": "2026-07-20",
+      "runs": 33,
+      "score_sum": 1913.0,
+      "distinct_active_reps": 11
+    },
+    {
+      "week_start": "2026-07-27",
+      "runs": 35,
+      "score_sum": 2142.4,
+      "distinct_active_reps": 12
+    },
+    {
+      "week_start": "2026-08-03",
+      "runs": 30,
+      "score_sum": 1815.7,
+      "distinct_active_reps": 11
+    },
+    {
+      "week_start": "2026-08-10",
+      "runs": 51,
+      "score_sum": 3377.1,
+      "distinct_active_reps": 14
+    },
+    {
+      "week_start": "2026-08-17",
+      "runs": 32,
+      "score_sum": 2297.2,
+      "distinct_active_reps": 13
+    },
+    {
+      "week_start": "2026-08-24",
+      "runs": 36,
+      "score_sum": 2754.6,
+      "distinct_active_reps": 14
+    },
+    {
+      "week_start": "2026-08-31",
+      "runs": 29,
+      "score_sum": 2328.8,
+      "distinct_active_reps": 12
+    },
+    {
+      "week_start": "2026-09-07",
+      "runs": 15,
+      "score_sum": 1496.3,
+      "distinct_active_reps": 9
+    }
+  ]
+}
