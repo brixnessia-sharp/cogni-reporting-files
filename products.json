@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.4",
+  "scope": {"tenant":"lilly","country":"CA","bu":"CARDIO","products":["ZEPBOUND"]},
+  "as_of": "2026-09-13T18:00:00Z",
+  "generated_at": "2026-09-13T18:04:12Z",
+  "cohort_floor_ok": true,
+  "last_30d": {
+    "runs": 231,
+    "score_sum": 15922.0,
+    "distinct_eligible_reps": 24,
+    "distinct_active_reps": 17,
+    "distinct_engaged_reps": 11
+  },
+  "prior_30d": {
+    "runs": 231,
+    "score_sum": 15922.0,
+    "distinct_eligible_reps": 24,
+    "distinct_active_reps": 17,
+    "distinct_engaged_reps": 11
+  },
+  "weekly": [
+    {"week_start":"2026-06-22","runs":48,"score_sum":3241.8,"distinct_active_reps":12}
+  ]
+}

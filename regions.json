@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.4",
+  "tenant": "lilly",
+  "generated_at": "2026-09-13T18:00:00Z",
+  "cohort_floor": 25,
+  "engaged_min_runs": 6,
+  "regions": [
+    {
+      "country": "US",
+      "status": "live"
+    },
+    {
+      "country": "CA",
+      "status": "live"
+    },
+    {
+      "country": "FR",
+      "status": "pending"
+    },
+    {
+      "country": "DE",
+      "status": "pending"
+    },
+    {
+      "country": "IT",
+      "status": "pending"
+    },
+    {
+      "country": "JP",
+      "status": "pending"
+    }
+  ],
+  "catalog": {
+    "CARDIO": [
+      "ZEPBOUND",
+      "MOUNJARO"
+    ],
+    "ONCO": [
+      "VERZENIO"
+    ]
+  }
+}
