@@ -1,6 +1,13 @@
 {
   "schema_version": "0.4",
-  "scope": {"tenant":"lilly","country":"CA","bu":"CARDIO","products":["ZEPBOUND"]},
+  "scope": {
+    "tenant": "lilly",
+    "country": "CA",
+    "bu": "CARDIO",
+    "products": [
+      "ZEPBOUND"
+    ]
+  },
   "as_of": "2026-09-13T18:00:00Z",
   "generated_at": "2026-09-13T18:04:12Z",
   "cohort_floor_ok": true,
@@ -19,6 +26,77 @@
     "distinct_engaged_reps": 9
   },
   "weekly": [
-    {"week_start":"2026-06-22","runs":48,"score_sum":3241.8,"distinct_active_reps":12}
+    {
+      "week_start": "2026-06-22",
+      "runs": 48,
+      "score_sum": 3241.8,
+      "distinct_active_reps": 12
+    },
+    {
+      "week_start": "2026-06-29",
+      "runs": 36,
+      "score_sum": 2484.0,
+      "distinct_active_reps": 11
+    },
+    {
+      "week_start": "2026-07-06",
+      "runs": 31,
+      "score_sum": 2194.8,
+      "distinct_active_reps": 10
+    },
+    {
+      "week_start": "2026-07-13",
+      "runs": 28,
+      "score_sum": 1996.4,
+      "distinct_active_reps": 10
+    },
+    {
+      "week_start": "2026-07-20",
+      "runs": 34,
+      "score_sum": 2710.0,
+      "distinct_active_reps": 11
+    },
+    {
+      "week_start": "2026-07-27",
+      "runs": 37,
+      "score_sum": 2876.0,
+      "distinct_active_reps": 12
+    },
+    {
+      "week_start": "2026-08-03",
+      "runs": 39,
+      "score_sum": 3035.0,
+      "distinct_active_reps": 12
+    },
+    {
+      "week_start": "2026-08-10",
+      "runs": 43,
+      "score_sum": 3301.0,
+      "distinct_active_reps": 13
+    },
+    {
+      "week_start": "2026-08-17",
+      "runs": 52,
+      "score_sum": 3692.0,
+      "distinct_active_reps": 14
+    },
+    {
+      "week_start": "2026-08-24",
+      "runs": 61,
+      "score_sum": 4210.0,
+      "distinct_active_reps": 15
+    },
+    {
+      "week_start": "2026-08-31",
+      "runs": 58,
+      "score_sum": 3970.0,
+      "distinct_active_reps": 15
+    },
+    {
+      "week_start": "2026-09-07",
+      "runs": 60,
+      "score_sum": 4050.0,
+      "distinct_active_reps": 16
+    }
   ]
 }
